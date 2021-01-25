@@ -1,0 +1,14 @@
+{
+    "wallet_file": "wallet.key",
+    "password": "govm_pwd@2019",
+    "servers": [
+        "govm.net:9090",
+        "govm.club:9090"
+    ],
+    "keep_conn_server_num": 2,
+    "thread_number": 1,
+    "chains": [
+        1
+    ],
+    "verbosity": 3
+}
